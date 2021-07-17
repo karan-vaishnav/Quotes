@@ -12,4 +12,4 @@ This is a simple app which displays random quotes.
 ### Links
 Solution URL - https://github.com/karan-vaishnav/Quotes.git
 
-Live Site URL - http://127.0.0.1:5500/quotes.html
+Live Site URL - https://krn-quote.netlify.app/
